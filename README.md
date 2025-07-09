@@ -19,10 +19,6 @@
  Me chama se quiser conversar sobre: ⤵
 </p>
 
-<p align="left">
-  <a href="https://discord.com/users/1319893452518850621" title="Discord">
-    <img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
   <a href="https://instagram.com/noirgov" title="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-000000?style=flat-square&labelColor=000000&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
